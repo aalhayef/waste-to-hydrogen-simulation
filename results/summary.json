@@ -1,0 +1,13 @@
+{
+  "ANN_R2_train": 0.9818,
+  "ANN_R2_test": 0.9797,
+  "ANN_RMSE_test": 0.061,
+  "Optimal_Temperature_C": 775.0,
+  "Optimal_SC_ratio": 5.0,
+  "Max_H2_yield_mol_per_mol": 2.6973,
+  "Reactor_heat_duty_kW": 4.36,
+  "Solar_collector_area_m2": 10.2,
+  "CO2_wastewater_solar_kgCO2_per_kgH2": 1.1,
+  "CO2_SMR_kgCO2_per_kgH2": 10.0,
+  "CO2_reduction_vs_SMR_percent": 89.0
+}
